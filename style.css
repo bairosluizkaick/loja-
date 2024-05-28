@@ -7,6 +7,6 @@
     --cor-da-letra:rgba(246, 253, 252, 0.473);
 
 }
-body{
+body{/*seletor body*/
     background-color: var(--cor-de-fundo)
 }
