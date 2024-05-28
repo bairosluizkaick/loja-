@@ -1,0 +1,12 @@
+*{/*seletor universal para resetar as bordas da página */
+    padding: 0px;
+    margin: 0px;
+}
+:root{/*seletor raiz para variáveis*/
+    --cor-de-fundo:rgba(15, 92, 180, 0.507);
+    --cor-da-letra:rgba(246, 253, 252, 0.473);
+
+}
+body{
+    background-color: var(--cor-de-fundo)
+}
