@@ -13,5 +13,9 @@
    justify-content: space-between;
    align-items: center;
 }
+.container{
+   display: flex;
+   align-items: center;
+}
 
 
