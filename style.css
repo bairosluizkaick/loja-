@@ -7,7 +7,7 @@
 :root{/*seletor raiz para variáveis*/
     --cor-de-fundo:rgb(98, 223, 73);
     --cor-da-letra:rgba(0, 0, 0, 0.89);
-    --cor-branca:white;
+    --cor-branco:white;
 }
 body{/*seletor body*/
     background-color: var(--cor-de-fundo)
