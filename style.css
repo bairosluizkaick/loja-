@@ -5,7 +5,7 @@
     margin: 0px;
 }
 :root{/*seletor raiz para variáveis*/
-    --cor-de-fundo:rgb(98, 223, 73);
+    --cor-de-fundo:rgb(46, 99, 35);
     --cor-da-letra:rgba(0, 0, 0, 0.89);
     --cor-branco:white;
 }
